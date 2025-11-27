@@ -4,7 +4,7 @@
 | Nome | RGM |
 | :--- | :--- |
 | Alejandro Lopes Reategui | 34125701 |
-| Artur Almeida Alves de Melo | 1433363650 |
+| Artur Almeida Alves de Melo | 33363650 |
 | Gabriel Henrique Luiz Mendes | 33890897 |
 | Jhonathan de Moura Santos | 32813589 |
 | Melissa Aragão Leite | 33999554 |

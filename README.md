@@ -15,7 +15,7 @@
 
 1.  **Pesquisa:** O arquivo de pesquisa completo, **`Pesquisa_Automathon_Lumos.pdf`**, está localizado na pasta **`Docs`**.
 2.  **Vídeo do Projeto:** O vídeo de demonstração do projeto está hospedado externamente, pois o tamanho do arquivo excedeu o limite de **25 MB** permitido pelo GitHub. O arquivo de vídeo está na pasta **`Video`** e contém um link ou arquivo de texto com a URL de acesso no Google Drive.
-3.  
+ 
 ---
 
 ## 📄 Pesquisa e Desenvolvimento: Autômato Modernizado "Lumos"

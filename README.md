@@ -11,6 +11,13 @@
 
 ---
 
+## 📌 Observações Importantes
+
+1.  **Pesquisa:** O arquivo de pesquisa completo, **`Pesquisa_Automathon_Lumos.pdf`**, está localizado na pasta **`Docs`**.
+2.  **Vídeo do Projeto:** O vídeo de demonstração do projeto está hospedado externamente, pois o tamanho do arquivo excedeu o limite de **25 MB** permitido pelo GitHub. O arquivo de vídeo está na pasta **`Video`** e contém um link ou arquivo de texto com a URL de acesso no Google Drive.
+3.  
+---
+
 ## 📄 Pesquisa e Desenvolvimento: Autômato Modernizado "Lumos"
 
 Este repositório contém a documentação completa do projeto **Autômato Modernizado "Lumos"**, uma proposta de solução de **Iluminação Pública Inteligente** baseada em Sistemas Ciber-Físicos (CPS) e Internet das Coisas (IoT) para o contexto de Smart Cities.
@@ -47,9 +54,3 @@ Esta fase detalha o roteiro prático para a ativação da arquitetura e a compro
     *   **Índice de Manutenção Preditiva vs. Corretiva**.
     *   **Taxa de Disponibilidade da Rede IoT**.
 
----
-
-## 📌 Observações Importantes
-
-1.  **Pesquisa:** O arquivo de pesquisa completo, **`Pesquisa_Automathon_Lumos.pdf`**, está localizado na pasta **`Docs`**.
-2.  **Vídeo do Projeto:** O vídeo de demonstração do projeto está hospedado externamente, pois o tamanho do arquivo excedeu o limite de **25 MB** permitido pelo GitHub. O arquivo de vídeo está na pasta **`Video`** e contém um link ou arquivo de texto com a URL de acesso no Google Drive.
